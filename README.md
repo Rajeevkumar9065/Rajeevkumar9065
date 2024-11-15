@@ -66,5 +66,5 @@ I enjoy solving algorithmic problems, participating in competitive programming c
 ---
 
 ## 📫 **Get in Touch**  
-- **Email:** [rajeevekumarsingh9065@gmail.com](mailto:rajeevekumarsingh9065@gmail.com)  
+- **Email:** [rajeevekumarsingh9065@gmail.com](mailto:rajeevkumarsingh9065@gmail.com)  
 - **LinkedIn:** [Rajeev Kumar LinkedIn](https://www.linkedin.com/in/rajeevk18/)
