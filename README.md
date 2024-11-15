@@ -46,8 +46,8 @@
 
 ---
 
-## 🌟 **CodeStats (LeetCode)**  
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=rajeev_18&theme=dark)
+## 🌟 **CodeStats (LeetCode)**   
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Rajeev_18&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
 
 ---
 
